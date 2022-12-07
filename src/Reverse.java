@@ -8,6 +8,8 @@ public class Reverse {
         }
         System.out.println("The reversed string is " + reverse);
         System.out.println("Successfully reversed the String");
+        //Welcome Message
+        System.out.println("Welcome to Conflicts");
         
     }
 }
