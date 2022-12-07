@@ -7,10 +7,9 @@ public class Reverse {
             reverse =reverse+s.charAt(i);
         }
         System.out.println("The reversed string is " + reverse);
-
         System.out.println("Successfully reversed the String");
         //Welcome Message
-        System.out.println("Welcome to Git");
+        System.out.println("Resolved Conflicts");
 
     }
 }
